@@ -13,7 +13,7 @@ Introducing my weather app built in JavaScript! With data sourced from OpenWeath
 
 Live Demo:
 
-   
+  https://manohar5147.github.io/js_project_weather_app/ 
 ## Getting Started
 
 To explore or modify the code, follow these steps:
