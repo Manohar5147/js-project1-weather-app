@@ -42,6 +42,9 @@ To explore or modify the code, follow these steps:
 🔍 5.️ Search Functionality: Easily search and find weather data for specific cities.
 
 
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09b13d6c-4503-492e-82ba-e6d93675f69e/deploy-status)](https://app.netlify.com/sites/manohar-weather-app/deploys)
 
 ## Contributing
 
