@@ -1,4 +1,4 @@
-# JS-Project-Day-1-Weather-App
+# JS-Project1-Weather-App
 
 Manohar V -Weather App
 ## Description 
